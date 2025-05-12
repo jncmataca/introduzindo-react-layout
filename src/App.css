@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    height: 100px;
+    background-color: #323846;
+    align-items: center;
+}
+.header a {
+    padding: 2px;
+    color: white;
+    text-decoration: none;
+}
+.pricipal{
+    display: flex;
+}
+.table{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    
+}
+.tr{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.item1{
+    width: 600px;
+}
+.Footer{
+    display: flex;
+    height: 250px;
+    background-color: #323846;
+    align-items: center;
+}
